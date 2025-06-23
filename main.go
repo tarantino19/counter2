@@ -17,6 +17,8 @@ func main() {
 		}
 	}
 
+	fmt.Println("test")
+
 	wordCount++
 
 	fmt.Println(wordCount)

@@ -1,0 +1,4 @@
+1 - User must be able to count words
+2 - User must be able to count lines
+3 - User must be able to count characters
+4 - User must be able to count bytes
